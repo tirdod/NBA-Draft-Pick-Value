@@ -804,12 +804,6 @@ better understanding of the value of future draft picks relative to
 current draft picks. As many teams across the league look to stockpile
 future draft capital, this would be extremely valuable information in
 guiding each team’s strategy. This would require sound predictive
-modelling of how good each team will be x years in advance.
-
-Without knowing exact pick numbers years in advance, it might be
-beneficial to look at pick ranges instead of pick numbers. Whereas teams
-won’t know exactly where they will pick, they would likely have an
-educated understanding of where they will be picking in future years,
-especially for presumptive playoff teams. There are a lot of different
-avenues that this research can take us with regards to deciding upon
-optimal basketball strategy.
+modelling of how good each team will be x years in advance. There are
+a lot of different avenues that this research can take us with regards
+to deciding upon optimal basketball strategy.
