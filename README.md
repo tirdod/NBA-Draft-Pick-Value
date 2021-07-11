@@ -227,7 +227,7 @@ kable(list(round1, round2),
              caption = "NBA Draft Pick Value Table",
              col.names = c("Pick Number", "Pick Value"),
              format = 'html', booktabs = TRUE) %>%
-  kable_styling(bootstrap_options = 'striped', full_width = F, position="left")
+  kable_styling(bootstrap_options = 'striped', full_width = F, position="center")
 ```
 
 <table class="kable_wrapper table table-striped" style="width: auto !important; ">
@@ -765,14 +765,9 @@ ggplot(pickScore, aes(numberPickOverall, pickValue)) +
 ![](Figs/unnamed-chunk-17-1.png)<!-- -->
 
 The values in the above curve make intuitive sense, as we see a steep
-dropoff in value throughout the lottery. The curve then steadily
-declines through the rest of the draft, especially as the second round
-wears on.
-
-One thing that I find very interesting is the relatively smooth slope
-observed from the 18th pick through the 22nd pick. This could be a
-potential avenue for teams to exploit via the trade market in the
-future.
+dropoff in value throughout the lottery, continuing through to about the 20th pick.
+The curve then steadily declines through the rest of the draft, with the
+slope declining early into the second round.
 
 ## Conclusion
 
