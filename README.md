@@ -226,7 +226,7 @@ kable(list(round1, round2),
              caption = "NBA Draft Pick Value Table",
              col.names = c("Pick Number", "Pick Value"),
              format = 'html', booktabs = TRUE) %>%
-  kable_styling(bootstrap_options = 'striped', full_width = FALSE, position='center')
+  kable_styling(bootstrap_options = 'striped', full_width = FALSE, position='left')
 ```
 
 <table class="kable_wrapper table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
