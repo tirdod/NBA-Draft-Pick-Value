@@ -9,9 +9,6 @@ Looking at the drafts from 2001 through 2016, I used the Value Over
 Replacement Player (VORP) metric to find the mean impact for each pick
 in the draft. Unlike performance metrics such as RAPM and PIPM, VORP
 reflects that players who don’t play at all aren’t helping their teams.
-By using fifteen years of draft data, this provides 831 observations,
-which provides me with enough of a sample size for each pick to perform
-my analysis.
 
 To grade each player, I took the sum of each player’s VORP for each
 season they played under their rookie contract (four years for first
