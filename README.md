@@ -765,7 +765,7 @@ ggplot(pickScore, aes(numberPickOverall, pickValue)) +
 
 The values in the above curve make intuitive sense, as we see a steep
 dropoff in value throughout the lottery, continuing through to about the
-20th pick. The curve then flattens out and bit and then steadily decline
+20th pick. The curve then flattens out and bit and then steadily declines
 through the rest of the draft, with the slope beginning to exhibit
 linear decay as we move into the second round.
 
