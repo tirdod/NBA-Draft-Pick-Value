@@ -107,7 +107,7 @@ vorp$count <- as.numeric(vorp$count)
 stats <- subset(vorp, vorp$count <= 4)
 ```
 
-Now, let’s join the VORP data with the draft history. We’ll temorarily
+Now, let’s join the VORP data with the draft history. We’ll temporarily
 break the data into first and second round picks so we can remove the
 fourth season for second round picks. Then we’ll put it back into one
 dataframe.
