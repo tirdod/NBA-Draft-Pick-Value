@@ -1,6 +1,6 @@
 Creating a Draft Pick Value Chart
 ================
-Tirdod Behbehani \n
+Tirdod Behbehani
 July 12, 2021
 
 ## Project Description: Quantifying the Value of Each Pick in the NBA Draft
