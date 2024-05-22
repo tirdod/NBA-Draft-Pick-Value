@@ -1,12 +1,12 @@
-Creating a Draft Pick Value Chart
+Quantifying the Value of Each Pick in the NBA Draft
 ================
 Tirdod Behbehani
 July 12, 2021
 
-## Project Description: Quantifying the Value of Each Pick in the NBA Draft
+## Project Description
 
-Looking at the drafts from 2001 through 2016, I used the Value Over
-Replacement Player (VORP) metric to find the mean impact for each pick
+Looking at the NBA drafts from 2001 through 2016, I used the Value Over
+Replacement Player (VORP) metric to find the mean impact for each selection
 in the draft. Unlike performance metrics such as RAPM and PIPM, VORP
 reflects that players who don’t play at all aren’t helping their teams.
 
