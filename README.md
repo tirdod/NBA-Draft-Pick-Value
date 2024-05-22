@@ -780,9 +780,9 @@ whether a team should or shouldn’t make a deal. That being said,
 understanding the general curve is more important than the exact values.
 
 To use a real world example, let us look at the Orlando Magic, who have
-the 5th and 8th pick in this year’s draft. The summed value of those two
+the 5th and 8th pick in this year’s (2021) draft. The summed value of those two
 picks is 125.1. There are rumors that they are interested in trading
-those two picks for the second overall pick, which is worth 91.9 points.
+those two picks for the 2nd overall pick, which is worth 91.9 points.
 
 From a pure pick value standpoint, the Magic would be very much
 overpaying in this deal. However, with all of these potential trades, it
