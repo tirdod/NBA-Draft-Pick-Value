@@ -11,10 +11,11 @@ in the draft. Unlike performance metrics such as RAPM and PIPM, VORP
 reflects that players who don’t play at all aren’t helping their teams.
 
 To grade each player, I took the sum of each player’s VORP for each
-season they played under their rookie contract (four years for first
-round picks and three years for second round picks). Using the sum, as
+season they played under their "assumed" rookie contract. For first round
+picks, I used a player's first four seasons.  For second round picks, 
+I used a player's first three seasons.  Using the VORP sum, as
 opposed to the average, puts greater weight on players that played
-stayed in the league for more seasons than those who didn’t pan out.
+in the NBA for more seasons.
 
 To account for random variation, I smoothed the pick values.
 Additionally, the pick values were normalized, setting the value of the
